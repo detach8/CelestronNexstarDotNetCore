@@ -1,6 +1,6 @@
 # Celestron NexStar Serial Client for DotNet
 
-A .NET standard library to communicate with Celestron NexStar hand controllers.
+A .NET standard 2.0 library to communicate with Celestron NexStar hand controllers.
 
 This was originally developed to provide a quick way to synchronize time on Celestron NexStar SE models which did not have an RTC.
 
